@@ -33,8 +33,8 @@ public class Point
     public String toString()
     {
         return "Point{" +
-                "x=" + x +
-                ", y=" + y +
+                "X coordinate: " + x +
+                "Y coordinate: " + y +
                 '}';
     }
 }
